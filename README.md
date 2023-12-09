@@ -22,4 +22,4 @@
 
 [`🍱 bento.me`](https://bento.me/agatocherry) •
 [`🟡 leetcode`](https://leetcode.com/agatocherry/) •
-[`✉️ mail me`](mailto:agathe.colas@lycam.fr)
+[`✉️ agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
