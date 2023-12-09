@@ -21,5 +21,4 @@
 <!-- Find icons at https://simpleicons.org/ -->
 
 [`linktree`](https://linktr.ee/agatocherry) •
-[`leetcode`](https://leetcode.com/agatocherry/) •
-[`✉agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
+[`agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
