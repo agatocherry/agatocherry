@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Agathe! 🌸
 
-<!--
-**agatocherry/agatocherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 📍 Student at Montpellier (France)
 
-Here are some ideas to get you started:
+[`🍱 bento.me`](https://bento.me/agatocherry) •
+[`🟡 leetcode`](https://leetcode.com/agatocherry/) •
+[`✉️ mail me`](mailto:agathe.colas@lycam.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**![languages](https://img.shields.io/static/v1?label=&message=languages:&color=F62941&style=flat-square)**
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![C](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C&color=111&logoColor=AAA&style=flat-square)
+
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=F62941&style=flat-square)
+![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=111&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+
+![software](https://img.shields.io/static/v1?label=&message=software:&color=F62941&style=flat-square)
+![indesign](https://img.shields.io/static/v1?logo=adobeindesign&label=&message=InDesign&color=111&logoColor=AAA&style=flat-square)
+![photoshop](https://img.shields.io/static/v1?logo=adobephotoshop&label=&message=Photoshop&color=111&logoColor=AAA&style=flat-square)
+![illustrator](https://img.shields.io/static/v1?logo=adobeillustrator&label=&message=Illustrator&color=111&logoColor=AAA&style=flat-square)
+![krita](https://img.shields.io/static/v1?logo=krita&label=&message=Krita&color=111&logoColor=AAA&style=flat-square)
+
+<!-- Find icons at https://simpleicons.org/ -->
