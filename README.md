@@ -2,11 +2,6 @@
 
 > 📍 Student at Montpellier (France)
 
-[`🍱 bento.me`](https://bento.me/agatocherry) •
-[`🟡 leetcode`](https://leetcode.com/agatocherry/) •
-[`✉️ mail me`](mailto:agathe.colas@lycam.fr)
-
-
 **![languages](https://img.shields.io/static/v1?label=&message=languages:&color=F62941&style=flat-square)**
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![C](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C&color=111&logoColor=AAA&style=flat-square)
@@ -24,3 +19,7 @@
 ![krita](https://img.shields.io/static/v1?logo=krita&label=&message=Krita&color=111&logoColor=AAA&style=flat-square)
 
 <!-- Find icons at https://simpleicons.org/ -->
+
+[`🍱 bento.me`](https://bento.me/agatocherry) •
+[`🟡 leetcode`](https://leetcode.com/agatocherry/) •
+[`✉️ mail me`](mailto:agathe.colas@lycam.fr)
