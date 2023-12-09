@@ -20,6 +20,6 @@
 
 <!-- Find icons at https://simpleicons.org/ -->
 
-[`🍱 bento.me`](https://bento.me/agatocherry) •
-[`🟡 leetcode`](https://leetcode.com/agatocherry/) •
-[`✉️ agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
+[`bento.me`](https://bento.me/agatocherry) •
+[`leetcode`](https://leetcode.com/agatocherry/) •
+[`✉agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
