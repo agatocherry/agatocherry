@@ -4,7 +4,7 @@
 
 **![languages](https://img.shields.io/static/v1?label=&message=languages:&color=F62941&style=flat-square)**
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![C](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C/C++&color=111&logoColor=AAA&style=flat-square)
+![C](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C/Cpp&color=111&logoColor=AAA&style=flat-square)
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=F62941&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
