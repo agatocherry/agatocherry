@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;
 
 ![software](https://img.shields.io/static/v1?label=&message=software:&color=F62941&style=flat-square)
-![indesign](https://img.shields.io/static/v1?logo=adobeindesign&label=&message=InDesign&color=111&logoColor=AAA&style=flat-square)
+![indesign](https://img.shields.io/static/v1?logo=adobeindesign&label=&message=Indesign&color=111&logoColor=AAA&style=flat-square)
 ![photoshop](https://img.shields.io/static/v1?logo=adobephotoshop&label=&message=Photoshop&color=111&logoColor=AAA&style=flat-square)
 ![illustrator](https://img.shields.io/static/v1?logo=adobeillustrator&label=&message=Illustrator&color=111&logoColor=AAA&style=flat-square)
 ![krita](https://img.shields.io/static/v1?logo=krita&label=&message=Krita&color=111&logoColor=AAA&style=flat-square)
