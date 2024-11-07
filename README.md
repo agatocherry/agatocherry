@@ -2,10 +2,7 @@
 
 > 📍 Student at Montpellier (France)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python,ocaml" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,python,ocaml)](https://skillicons.dev)
+[![My Softwares](https://skillicons.dev/icons?i=vscode,ai,ps,id,notion)](https://skillicons.dev)
 
 [`linktree`](https://linktr.ee/agatocherry)
