@@ -16,9 +16,8 @@
 ![indesign](https://img.shields.io/static/v1?logo=adobeindesign&label=&message=Indesign&color=111&logoColor=AAA&style=flat-square)
 ![photoshop](https://img.shields.io/static/v1?logo=adobephotoshop&label=&message=Photoshop&color=111&logoColor=AAA&style=flat-square)
 ![illustrator](https://img.shields.io/static/v1?logo=adobeillustrator&label=&message=Illustrator&color=111&logoColor=AAA&style=flat-square)
-![krita](https://img.shields.io/static/v1?logo=krita&label=&message=Krita&color=111&logoColor=AAA&style=flat-square)
+![Clip Studio Paint](https://img.shields.io/static/v1?logo=clipstudiopaint&label=&message=clipstudiopaint&color=111&logoColor=AAA&style=flat-square)
 
 <!-- Find icons at https://simpleicons.org/ -->
 
-[`linktree`](https://linktr.ee/agatocherry) •
-[`agathe.colas@lycam.fr`](mailto:agathe.colas@lycam.fr)
+[`linktree`](https://linktr.ee/agatocherry)
